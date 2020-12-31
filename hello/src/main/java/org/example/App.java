@@ -8,7 +8,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println("433333");
-
         System.out.println("533333");
         System.out.println("633333");
     }
